@@ -1,0 +1,15 @@
+C:\Users\barte\Downloads\asd\PolaFigur\bin\Debug\Kalkulator Figur.exe.config
+C:\Users\barte\Downloads\asd\PolaFigur\bin\Debug\Kalkulator Figur.exe
+C:\Users\barte\Downloads\asd\PolaFigur\bin\Debug\Kalkulator Figur.pdb
+C:\Users\barte\Downloads\asd\PolaFigur\obj\Debug\PolaFigur.csproj.AssemblyReference.cache
+C:\Users\barte\Downloads\asd\PolaFigur\obj\Debug\MainWindow.g.cs
+C:\Users\barte\Downloads\asd\PolaFigur\obj\Debug\App.g.cs
+C:\Users\barte\Downloads\asd\PolaFigur\obj\Debug\Kalkulator Figur_MarkupCompile.cache
+C:\Users\barte\Downloads\asd\PolaFigur\obj\Debug\Kalkulator Figur_MarkupCompile.lref
+C:\Users\barte\Downloads\asd\PolaFigur\obj\Debug\MainWindow.baml
+C:\Users\barte\Downloads\asd\PolaFigur\obj\Debug\Kalkulator Figur.g.resources
+C:\Users\barte\Downloads\asd\PolaFigur\obj\Debug\Kalkulator_Figur.Properties.Resources.resources
+C:\Users\barte\Downloads\asd\PolaFigur\obj\Debug\PolaFigur.csproj.GenerateResource.cache
+C:\Users\barte\Downloads\asd\PolaFigur\obj\Debug\PolaFigur.csproj.CoreCompileInputs.cache
+C:\Users\barte\Downloads\asd\PolaFigur\obj\Debug\Kalkulator Figur.exe
+C:\Users\barte\Downloads\asd\PolaFigur\obj\Debug\Kalkulator Figur.pdb

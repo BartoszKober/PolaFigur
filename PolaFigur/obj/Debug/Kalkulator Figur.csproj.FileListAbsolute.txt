@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\Szkola\Kalkulator-Figur\Kalkulator Figur\obj\Debug\Kalkulator Figur.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Szkola\Kalkulator-Figur\Kalkulator Figur\obj\Debug\MainWindow.g.cs
+C:\Users\User\Desktop\Szkola\Kalkulator-Figur\Kalkulator Figur\obj\Debug\App.g.cs
+C:\Users\User\Desktop\Szkola\Kalkulator-Figur\Kalkulator Figur\obj\Debug\Kalkulator Figur_MarkupCompile.cache
+C:\Users\User\Desktop\Szkola\Kalkulator-Figur\Kalkulator Figur\obj\Debug\Kalkulator Figur_MarkupCompile.lref
+C:\Users\User\Desktop\Szkola\Kalkulator-Figur\Kalkulator Figur\bin\Debug\Kalkulator Figur.exe.config
+C:\Users\User\Desktop\Szkola\Kalkulator-Figur\Kalkulator Figur\bin\Debug\Kalkulator Figur.exe
+C:\Users\User\Desktop\Szkola\Kalkulator-Figur\Kalkulator Figur\bin\Debug\Kalkulator Figur.pdb
+C:\Users\User\Desktop\Szkola\Kalkulator-Figur\Kalkulator Figur\obj\Debug\MainWindow.baml
+C:\Users\User\Desktop\Szkola\Kalkulator-Figur\Kalkulator Figur\obj\Debug\Kalkulator Figur.g.resources
+C:\Users\User\Desktop\Szkola\Kalkulator-Figur\Kalkulator Figur\obj\Debug\Kalkulator_Figur.Properties.Resources.resources
+C:\Users\User\Desktop\Szkola\Kalkulator-Figur\Kalkulator Figur\obj\Debug\Kalkulator Figur.csproj.GenerateResource.cache
+C:\Users\User\Desktop\Szkola\Kalkulator-Figur\Kalkulator Figur\obj\Debug\Kalkulator Figur.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Szkola\Kalkulator-Figur\Kalkulator Figur\obj\Debug\Kalkulator Figur.exe
+C:\Users\User\Desktop\Szkola\Kalkulator-Figur\Kalkulator Figur\obj\Debug\Kalkulator Figur.pdb
