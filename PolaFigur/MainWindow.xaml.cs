@@ -21,5 +21,81 @@ namespace Kalkulator_Figur
         {
             InitializeComponent();
         }
+        private void PoleKwadrat(object sender, RoutedEventArgs e)
+    {
+        int bok;
+        if (int.TryParse(BokKwadrat.Text, out bok) == false || BokKwadrat.Text == null)
+        {
+            MessageBox.Show("podaj odpowiednią wartość");
+        }
+        else{
+            var pole = bok * bok;
+            PoleKwadratT.Text = pole.ToString();
+        }
     }
+    private void ObwodKwadrat(object sender, RoutedEventArgs e)
+    {
+        int bok;
+        if (int.TryParse(BokKwadrat.Text, out bok) == false || BokKwadrat.Text == null)
+        {
+            MessageBox.Show("podaj odpowiednią wartość");
+        }
+        else
+        {
+            var obwod = bok * 4;
+            ObwodKwadratT.Text = obwod.ToString();
+        }
+    }
+    private void PoleTrojkat(object sender, RoutedEventArgs e)
+    {
+        int bok;
+        if (int.TryParse(BokTrojkat.Text, out bok) == false || BokTrojkat.Text == null)
+        {
+            MessageBox.Show("podaj odpowiednią wartość");
+        }
+        else{
+            var pole = ((bok * bok) * Math.Sqrt(3)) / 4;
+            PoleTrojkatT.Text = Math.Round(pole, 2).ToString();
+        }
+    }
+    private void ObwodTrojkat(object sender, RoutedEventArgs e)
+    {
+        int bok;
+        if (int.TryParse(BokTrojkat.Text, out bok) == false || BokTrojkat.Text == null)
+        {
+            MessageBox.Show("podaj odpowiednią wartość");
+        }
+        else
+        {
+            var obwod = bok * 3;
+            ObwodTrojkatT.Text = obwod.ToString();
+        }
+    }
+    private void PoleKolo(object sender, RoutedEventArgs e)
+    {
+        int bok;
+        if (int.TryParse(BokKolo.Text, out bok) == false || BokKolo.Text == null)
+        {
+            MessageBox.Show("podaj odpowiednią wartość");
+        }
+        else
+        {
+            var pole = Math.PI * (bok * bok) ;
+            PoleKoloT.Text = Math.Round(pole, 2).ToString();
+        }
+    }
+    private void ObwodKolo(object sender, RoutedEventArgs e)
+    {
+        int bok;
+        if (int.TryParse(BokKolo.Text, out bok) == false || BokKolo.Text == null)
+        {
+            MessageBox.Show("podaj odpowiednią wartość");
+        }
+        else
+        {
+            var obwod = (Math.PI * 2) * bok;
+            ObwodKoloT.Text = Math.Round(obwod, 2).ToString();
+        }
+    }
+}
 }
